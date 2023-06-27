@@ -5,4 +5,4 @@ Tested A Star Pathfinding System.
 
 Experimented C# scripts to use with A* System.
 
-Play the game: https://camkoalatixd.itch.io/ctf-simulator
+Watch simulation: https://camkoalatixd.itch.io/ctf-simulator
